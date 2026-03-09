@@ -74,19 +74,19 @@ This technique is commonly used in cybersecurity investigations to identify susp
 ## Screenshots
 
 ### HTTP Traffic
-![HTTP](http-filter.png)
+![HTTP](Http-filter.png)
 
 ### DNS Traffic
-![DNS](dns-filter.png)
+![DNS](DNS filter.png)
 
 ### TCP Traffic
-![TCP](tcp-filter.png)
+![TCP](TCP traffic.png)
 
 ### Protocol Hierarchy
-![Hierarchy](protocol-hierarchy.png)
+![Hierarchy](Protocol Hierarchy.png)
 
 ### Network Conversations
-![Conversations](conversations.png)
+![Conversations](Conversations statistics.png)
 
 ---
 
